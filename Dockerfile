@@ -1,5 +1,5 @@
 # Dependency Image
-FROM devanggaur7/terrascan:sarif-test-1 as terrascan
+FROM devanggaur7/terrascan:sarif-test-2 as terrascan
 
 # Base Image
 FROM alpine:3.13
